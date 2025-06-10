@@ -4,6 +4,8 @@
 #include <arpa/inet.h>
 #include <unistd.h>
 
+*/USAGE: sudo ./dns_spoofer example.com 192.168.138.131/*
+
 #define BUF_SIZE 512
 
 // DNS header structure (bez bit‐fields dla prostoty)
